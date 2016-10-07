@@ -1,0 +1,9 @@
+D:\EZ RFID Simulator\EZ RFID Simulator\bin\Debug\EZ RFID Simulator.exe.config
+D:\EZ RFID Simulator\EZ RFID Simulator\bin\Debug\EZ RFID Simulator.exe
+D:\EZ RFID Simulator\EZ RFID Simulator\bin\Debug\EZ RFID Simulator.pdb
+D:\EZ RFID Simulator\EZ RFID Simulator\obj\Debug\EZ RFID Simulator.csprojResolveAssemblyReference.cache
+D:\EZ RFID Simulator\EZ RFID Simulator\obj\Debug\EZ_RFID_Simulator.EZPOSForm.resources
+D:\EZ RFID Simulator\EZ RFID Simulator\obj\Debug\EZ_RFID_Simulator.Properties.Resources.resources
+D:\EZ RFID Simulator\EZ RFID Simulator\obj\Debug\EZ RFID Simulator.csproj.GenerateResource.Cache
+D:\EZ RFID Simulator\EZ RFID Simulator\obj\Debug\EZ RFID Simulator.exe
+D:\EZ RFID Simulator\EZ RFID Simulator\obj\Debug\EZ RFID Simulator.pdb
